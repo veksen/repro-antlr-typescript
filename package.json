@@ -1,0 +1,19 @@
+{
+  "name": "antlr4-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Jean-Philippe Sirois",
+  "license": "ISC",
+  "dependencies": {
+    "@types/antlr4": "^4.11.2",
+    "@types/node": "^18.11.18",
+    "antlr4": "^4.12.0-beta.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}

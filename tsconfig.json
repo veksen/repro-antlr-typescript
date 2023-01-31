@@ -2,6 +2,7 @@
   "compilerOptions": {
     "watch": true,
     "module": "esnext",
+    "moduleResolution": "node",
     "declaration": true,
     "removeComments": true,
     "emitDecoratorMetadata": true,
